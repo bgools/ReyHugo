@@ -16,3 +16,7 @@ img {
 h3 {
     color: rgb(174, 174, 174);
 }
+
+.row {
+    margin: 0px;
+}

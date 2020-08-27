@@ -1,0 +1,22 @@
+
+.jumbotron { 
+    background-color: rgb(52, 52, 145);;
+    margin-bottom: 0;
+}
+
+h1 { 
+    color:rgb(174, 174, 174);
+    text-align: center;
+}
+
+p { 
+    color:rgb(174, 174, 174);
+    text-align: center;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+
+  

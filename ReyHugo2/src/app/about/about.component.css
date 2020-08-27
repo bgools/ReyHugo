@@ -1,0 +1,17 @@
+div {
+    margin: 10px;
+    background-color: rgb(83, 81, 94);
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    float: left;
+}
+
+h3 {
+    color: rgb(174, 174, 174);
+}

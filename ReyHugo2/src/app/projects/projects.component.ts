@@ -16,7 +16,7 @@ export class ProjectsComponent implements OnInit {
     {"name": "Family First", "release date": "March 2020"},
     {"name": "Whitness", "release date": "March 2020"},
     {"name": "Light Of The World", "release date": "March 2020"},
-    {"name": "", "release date": ""},
+    {"name": "PROVEN", "release date": "March 2020"},
     {"name": "", "release date": ""},
     {"name": "", "release date": ""},
     {"name": "", "release date": ""},

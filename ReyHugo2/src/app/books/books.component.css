@@ -1,6 +1,6 @@
 div {
     margin: 10px;
-    background-color: rgb(83, 81, 94);
+    background-color: rgb(52, 52, 145);
 }
 img {
     display: block;
@@ -9,7 +9,7 @@ img {
     width: 25%;
     height: 25%;
     
-    box-shadow: 5px 5px grey;
+    box-shadow: 5px 5px rgb(174, 174, 174);
     
 }
 

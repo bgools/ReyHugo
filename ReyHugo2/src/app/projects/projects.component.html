@@ -3,12 +3,12 @@
     <p>Rey Hugo</p>
 </div>
 
-<h3>
+
     <ul class="list-group">
         <li class="list-group-item" *ngFor="let album of albums">
 
-            {{ album.name }} - 
-            {{ album.releaseDate }}
+           <h3>{{ album.name }}</h3> 
+            <h6>{{ album.releaseDate }}</h6>
         </li>
     </ul>
-</h3>
+

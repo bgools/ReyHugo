@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Projects } from "../projects";
 
 @Component({
   selector: 'app-projects',
@@ -7,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProjectsComponent implements OnInit {
 
-  albums = [
+  albums: Projects[] = [
     {"name": "Family First", "releaseDate": "March 2020"},
     {"name": "Whitness", "releaseDate": "March 2020"},
     {"name": "Light Of The World", "releaseDate": "March 2020"},

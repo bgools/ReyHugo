@@ -16,6 +16,7 @@ const routes: Routes = [
   { path: 'contact', component: ContactComponent },
   { path: 'books', component: BooksComponent },
   { path: 'navbar', component: NavbarComponent },
+  { path: '', component: HomeComponent },
 ];
 
 @NgModule({

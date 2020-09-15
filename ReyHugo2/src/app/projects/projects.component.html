@@ -1,14 +1,15 @@
-<div class="jumbotron">
-    <h1>PROJECTS</h1>      
-    <p>Rey Hugo</p>
+<div class="container">
+    <div class="jumbotron">
+        <h1>PROJECTS</h1>      
+        <p>Rey Hugo</p>
+    </div>
+
+
+        <ul class="list-group">
+            <li class="list-group-item" *ngFor="let album of albums">
+
+               <h3>{{ album.name }}</h3> 
+                <h6>{{ album.releaseDate }}</h6>
+            </li>
+        </ul>
 </div>
-
-
-    <ul class="list-group">
-        <li class="list-group-item" *ngFor="let album of albums">
-
-           <h3>{{ album.name }}</h3> 
-            <h6>{{ album.releaseDate }}</h6>
-        </li>
-    </ul>
-

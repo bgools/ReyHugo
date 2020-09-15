@@ -1,6 +1,7 @@
 .jumbotron { 
     background-color: rgb(52, 52, 145);;
     margin-bottom: 10px;
+    position: static
 }
 
 h1 { 
